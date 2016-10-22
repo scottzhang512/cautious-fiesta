@@ -17,5 +17,8 @@ public class person{
  public void moving(){
    
 }
+ public String read(){
+  System printIn("这是一个奇迹！");
+}
   
 }
